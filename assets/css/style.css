@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#nav1{
+    background-color: transparent;
+}
+
+
+.section{
+    background-image: url(../img/10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+    
+   
+}
+
+
+.section1{
+      transform: translateY(30%);
+      margin-left: 100px;
+}
+.a{
+    color:black;
+    font-weight: 500;
+}
+h1{
+    color: grey;
+}
+
+.shop{
+    margin-left: 380px;
+}
+hr{
+    width: 800px;
+    color: black;
+}
+.shop1{
+    text-align: center;
+    font-weight: 800;
+    font-size: x-large;
+}
+.mini{
+    display: flex;
+    justify-content: space-between;
+}
+.shop2{
+    text-align: center;
+    font-weight: 900;
+    font-size: xx-large;
+    text-decoration: underline;
+    
+   }
+  
+ .mini3{
+    float: right;
+    font-weight: 700;
+   
+ }
+ .third{
+    transform: translateX(-160px);
+    margin-top: 120px;
+    border: 5px solid white;   
+    
+ }
+.mini4{
+    margin-left: 45px;
+    font-weight: 700;
+    float: left;
+}
+
+.tax{
+   
+    transform: translateX(90px);
+}
+
+.bab2{
+    transform: translateX(-160px);
+    margin-top: 120px;
+    border: 5px solid white;
+}
+
+.first{
+    transform: translateX(100px); 
+}
+
+.mini7{
+    margin-left: 500px;
+    border:5px solid white;
+}
+
+.mini8{
+    background-color: black;
+   }
+
+.tax3{
+    background-image: url(../img/56.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+}
+.tax5{
+    font-weight: 800;
+    
+}
+.tax4{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+.tax8{
+   margin-left: 490px;
+    font-weight: 800;
+    font-size: xx-large;
+    text-decoration: overline;
+    text-decoration: underline;
+    
+}
+.tax6{
+    display: flex;
+    justify-content: space-between;
+}
+.tax7{
+    border: 5px solid white;
+}
+.bab9{
+    background-color: white;
+    width: 300px;
+    height: 270px;
+    box-shadow: 10px 5px 7px;
+    transform: translateY(-100px);
+    justify-content: right;
+    padding: 3px;
+    margin-left: 20px;
+
+}
+.tax10{
+    display: flex;
+    justify-content: space-between;
+}
+.bab9:hover{
+    transform: translateX(2px);
+}
+.tax11{
+    margin-left: 20px;
+}
+.tax13{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    box-shadow: 1px 3px 10px 3px;
+   
+    background-color:snow;
+}
